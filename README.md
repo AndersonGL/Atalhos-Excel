@@ -83,7 +83,7 @@ Sinta-se à vontade para sugerir novos atalhos ou melhorias abrindo uma *issue* 
 
 ---
 
-# Atalhos-Excel
+
 
 
 CTRL + SHIFT + DOIS PONTOS  =  HORA ATUAL
